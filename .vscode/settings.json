@@ -1,0 +1,4 @@
+{
+  "css.validate": false,
+  "python.formatting.provider": "black"
+}
